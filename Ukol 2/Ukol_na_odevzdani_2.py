@@ -47,5 +47,5 @@ while True:
 
     elif leave == "no":
         print("Thank you for using our service!")
-        exit()
+        break
 
